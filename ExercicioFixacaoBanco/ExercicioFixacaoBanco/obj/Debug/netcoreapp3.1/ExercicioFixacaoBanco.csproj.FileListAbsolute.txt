@@ -1,0 +1,13 @@
+F:\josemar\udemyC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\netcoreapp3.1\ExercicioFixacaoBanco.exe
+F:\josemar\udemyC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\netcoreapp3.1\ExercicioFixacaoBanco.deps.json
+F:\josemar\udemyC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\netcoreapp3.1\ExercicioFixacaoBanco.runtimeconfig.json
+F:\josemar\udemyC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\netcoreapp3.1\ExercicioFixacaoBanco.runtimeconfig.dev.json
+F:\josemar\udemyC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\netcoreapp3.1\ExercicioFixacaoBanco.dll
+F:\josemar\udemyC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\bin\Debug\netcoreapp3.1\ExercicioFixacaoBanco.pdb
+F:\josemar\udemyC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\netcoreapp3.1\ExercicioFixacaoBanco.csprojAssemblyReference.cache
+F:\josemar\udemyC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\netcoreapp3.1\ExercicioFixacaoBanco.csproj.CoreCompileInputs.cache
+F:\josemar\udemyC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\netcoreapp3.1\ExercicioFixacaoBanco.AssemblyInfoInputs.cache
+F:\josemar\udemyC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\netcoreapp3.1\ExercicioFixacaoBanco.AssemblyInfo.cs
+F:\josemar\udemyC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\netcoreapp3.1\ExercicioFixacaoBanco.dll
+F:\josemar\udemyC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\netcoreapp3.1\ExercicioFixacaoBanco.pdb
+F:\josemar\udemyC#\ExercicioFixacaoBanco\ExercicioFixacaoBanco\obj\Debug\netcoreapp3.1\ExercicioFixacaoBanco.genruntimeconfig.cache

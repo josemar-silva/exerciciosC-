@@ -1,0 +1,13 @@
+F:\josemar\udemyC#\exercicosVetoresArray\exercicosVetoresArray\bin\Debug\netcoreapp3.1\exercicosVetoresArray.exe
+F:\josemar\udemyC#\exercicosVetoresArray\exercicosVetoresArray\bin\Debug\netcoreapp3.1\exercicosVetoresArray.deps.json
+F:\josemar\udemyC#\exercicosVetoresArray\exercicosVetoresArray\bin\Debug\netcoreapp3.1\exercicosVetoresArray.runtimeconfig.json
+F:\josemar\udemyC#\exercicosVetoresArray\exercicosVetoresArray\bin\Debug\netcoreapp3.1\exercicosVetoresArray.runtimeconfig.dev.json
+F:\josemar\udemyC#\exercicosVetoresArray\exercicosVetoresArray\bin\Debug\netcoreapp3.1\exercicosVetoresArray.dll
+F:\josemar\udemyC#\exercicosVetoresArray\exercicosVetoresArray\bin\Debug\netcoreapp3.1\exercicosVetoresArray.pdb
+F:\josemar\udemyC#\exercicosVetoresArray\exercicosVetoresArray\obj\Debug\netcoreapp3.1\exercicosVetoresArray.csprojAssemblyReference.cache
+F:\josemar\udemyC#\exercicosVetoresArray\exercicosVetoresArray\obj\Debug\netcoreapp3.1\exercicosVetoresArray.csproj.CoreCompileInputs.cache
+F:\josemar\udemyC#\exercicosVetoresArray\exercicosVetoresArray\obj\Debug\netcoreapp3.1\exercicosVetoresArray.AssemblyInfoInputs.cache
+F:\josemar\udemyC#\exercicosVetoresArray\exercicosVetoresArray\obj\Debug\netcoreapp3.1\exercicosVetoresArray.AssemblyInfo.cs
+F:\josemar\udemyC#\exercicosVetoresArray\exercicosVetoresArray\obj\Debug\netcoreapp3.1\exercicosVetoresArray.dll
+F:\josemar\udemyC#\exercicosVetoresArray\exercicosVetoresArray\obj\Debug\netcoreapp3.1\exercicosVetoresArray.pdb
+F:\josemar\udemyC#\exercicosVetoresArray\exercicosVetoresArray\obj\Debug\netcoreapp3.1\exercicosVetoresArray.genruntimeconfig.cache

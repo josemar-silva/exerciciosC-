@@ -1,0 +1,13 @@
+F:\josemar\udemyC#\ExercicioConversaoDadosEntrada\ExercicioConversaoDadosEntrada\bin\Debug\netcoreapp3.1\ExercicioConversaoDadosEntrada.exe
+F:\josemar\udemyC#\ExercicioConversaoDadosEntrada\ExercicioConversaoDadosEntrada\bin\Debug\netcoreapp3.1\ExercicioConversaoDadosEntrada.deps.json
+F:\josemar\udemyC#\ExercicioConversaoDadosEntrada\ExercicioConversaoDadosEntrada\bin\Debug\netcoreapp3.1\ExercicioConversaoDadosEntrada.runtimeconfig.json
+F:\josemar\udemyC#\ExercicioConversaoDadosEntrada\ExercicioConversaoDadosEntrada\bin\Debug\netcoreapp3.1\ExercicioConversaoDadosEntrada.runtimeconfig.dev.json
+F:\josemar\udemyC#\ExercicioConversaoDadosEntrada\ExercicioConversaoDadosEntrada\bin\Debug\netcoreapp3.1\ExercicioConversaoDadosEntrada.dll
+F:\josemar\udemyC#\ExercicioConversaoDadosEntrada\ExercicioConversaoDadosEntrada\bin\Debug\netcoreapp3.1\ExercicioConversaoDadosEntrada.pdb
+F:\josemar\udemyC#\ExercicioConversaoDadosEntrada\ExercicioConversaoDadosEntrada\obj\Debug\netcoreapp3.1\ExercicioConversaoDadosEntrada.csprojAssemblyReference.cache
+F:\josemar\udemyC#\ExercicioConversaoDadosEntrada\ExercicioConversaoDadosEntrada\obj\Debug\netcoreapp3.1\ExercicioConversaoDadosEntrada.csproj.CoreCompileInputs.cache
+F:\josemar\udemyC#\ExercicioConversaoDadosEntrada\ExercicioConversaoDadosEntrada\obj\Debug\netcoreapp3.1\ExercicioConversaoDadosEntrada.AssemblyInfoInputs.cache
+F:\josemar\udemyC#\ExercicioConversaoDadosEntrada\ExercicioConversaoDadosEntrada\obj\Debug\netcoreapp3.1\ExercicioConversaoDadosEntrada.AssemblyInfo.cs
+F:\josemar\udemyC#\ExercicioConversaoDadosEntrada\ExercicioConversaoDadosEntrada\obj\Debug\netcoreapp3.1\ExercicioConversaoDadosEntrada.dll
+F:\josemar\udemyC#\ExercicioConversaoDadosEntrada\ExercicioConversaoDadosEntrada\obj\Debug\netcoreapp3.1\ExercicioConversaoDadosEntrada.pdb
+F:\josemar\udemyC#\ExercicioConversaoDadosEntrada\ExercicioConversaoDadosEntrada\obj\Debug\netcoreapp3.1\ExercicioConversaoDadosEntrada.genruntimeconfig.cache

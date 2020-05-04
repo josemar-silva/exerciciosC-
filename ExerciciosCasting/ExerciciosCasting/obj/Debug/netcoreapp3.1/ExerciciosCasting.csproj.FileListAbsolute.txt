@@ -1,0 +1,13 @@
+F:\josemar\udemyC#\ExerciciosCasting\ExerciciosCasting\bin\Debug\netcoreapp3.1\ExerciciosCasting.exe
+F:\josemar\udemyC#\ExerciciosCasting\ExerciciosCasting\bin\Debug\netcoreapp3.1\ExerciciosCasting.deps.json
+F:\josemar\udemyC#\ExerciciosCasting\ExerciciosCasting\bin\Debug\netcoreapp3.1\ExerciciosCasting.runtimeconfig.json
+F:\josemar\udemyC#\ExerciciosCasting\ExerciciosCasting\bin\Debug\netcoreapp3.1\ExerciciosCasting.runtimeconfig.dev.json
+F:\josemar\udemyC#\ExerciciosCasting\ExerciciosCasting\bin\Debug\netcoreapp3.1\ExerciciosCasting.dll
+F:\josemar\udemyC#\ExerciciosCasting\ExerciciosCasting\bin\Debug\netcoreapp3.1\ExerciciosCasting.pdb
+F:\josemar\udemyC#\ExerciciosCasting\ExerciciosCasting\obj\Debug\netcoreapp3.1\ExerciciosCasting.csprojAssemblyReference.cache
+F:\josemar\udemyC#\ExerciciosCasting\ExerciciosCasting\obj\Debug\netcoreapp3.1\ExerciciosCasting.csproj.CoreCompileInputs.cache
+F:\josemar\udemyC#\ExerciciosCasting\ExerciciosCasting\obj\Debug\netcoreapp3.1\ExerciciosCasting.AssemblyInfoInputs.cache
+F:\josemar\udemyC#\ExerciciosCasting\ExerciciosCasting\obj\Debug\netcoreapp3.1\ExerciciosCasting.AssemblyInfo.cs
+F:\josemar\udemyC#\ExerciciosCasting\ExerciciosCasting\obj\Debug\netcoreapp3.1\ExerciciosCasting.dll
+F:\josemar\udemyC#\ExerciciosCasting\ExerciciosCasting\obj\Debug\netcoreapp3.1\ExerciciosCasting.pdb
+F:\josemar\udemyC#\ExerciciosCasting\ExerciciosCasting\obj\Debug\netcoreapp3.1\ExerciciosCasting.genruntimeconfig.cache

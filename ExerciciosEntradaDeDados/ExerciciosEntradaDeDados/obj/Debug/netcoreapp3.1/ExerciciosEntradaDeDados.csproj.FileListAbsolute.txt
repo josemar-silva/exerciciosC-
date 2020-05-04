@@ -1,0 +1,12 @@
+F:\josemar\udemyC#\ExerciciosEntradaDeDados\ExerciciosEntradaDeDados\bin\Debug\netcoreapp3.1\ExerciciosEntradaDeDados.exe
+F:\josemar\udemyC#\ExerciciosEntradaDeDados\ExerciciosEntradaDeDados\bin\Debug\netcoreapp3.1\ExerciciosEntradaDeDados.deps.json
+F:\josemar\udemyC#\ExerciciosEntradaDeDados\ExerciciosEntradaDeDados\bin\Debug\netcoreapp3.1\ExerciciosEntradaDeDados.runtimeconfig.json
+F:\josemar\udemyC#\ExerciciosEntradaDeDados\ExerciciosEntradaDeDados\bin\Debug\netcoreapp3.1\ExerciciosEntradaDeDados.runtimeconfig.dev.json
+F:\josemar\udemyC#\ExerciciosEntradaDeDados\ExerciciosEntradaDeDados\bin\Debug\netcoreapp3.1\ExerciciosEntradaDeDados.dll
+F:\josemar\udemyC#\ExerciciosEntradaDeDados\ExerciciosEntradaDeDados\bin\Debug\netcoreapp3.1\ExerciciosEntradaDeDados.pdb
+F:\josemar\udemyC#\ExerciciosEntradaDeDados\ExerciciosEntradaDeDados\obj\Debug\netcoreapp3.1\ExerciciosEntradaDeDados.csproj.CoreCompileInputs.cache
+F:\josemar\udemyC#\ExerciciosEntradaDeDados\ExerciciosEntradaDeDados\obj\Debug\netcoreapp3.1\ExerciciosEntradaDeDados.AssemblyInfoInputs.cache
+F:\josemar\udemyC#\ExerciciosEntradaDeDados\ExerciciosEntradaDeDados\obj\Debug\netcoreapp3.1\ExerciciosEntradaDeDados.AssemblyInfo.cs
+F:\josemar\udemyC#\ExerciciosEntradaDeDados\ExerciciosEntradaDeDados\obj\Debug\netcoreapp3.1\ExerciciosEntradaDeDados.dll
+F:\josemar\udemyC#\ExerciciosEntradaDeDados\ExerciciosEntradaDeDados\obj\Debug\netcoreapp3.1\ExerciciosEntradaDeDados.pdb
+F:\josemar\udemyC#\ExerciciosEntradaDeDados\ExerciciosEntradaDeDados\obj\Debug\netcoreapp3.1\ExerciciosEntradaDeDados.genruntimeconfig.cache

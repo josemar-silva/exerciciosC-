@@ -1,0 +1,13 @@
+F:\josemar\udemyC#\CriandoClasses\CriandoClasses\bin\Debug\netcoreapp3.1\ExercicioCriacaoDeClasses.deps.json
+F:\josemar\udemyC#\CriandoClasses\CriandoClasses\bin\Debug\netcoreapp3.1\ExercicioCriacaoDeClasses.dll
+F:\josemar\udemyC#\CriandoClasses\CriandoClasses\bin\Debug\netcoreapp3.1\ExercicioCriacaoDeClasses.pdb
+F:\josemar\udemyC#\CriandoClasses\CriandoClasses\obj\Debug\netcoreapp3.1\ExercicioCriacaoDeClasses.csprojAssemblyReference.cache
+F:\josemar\udemyC#\CriandoClasses\CriandoClasses\obj\Debug\netcoreapp3.1\ExercicioCriacaoDeClasses.csproj.CoreCompileInputs.cache
+F:\josemar\udemyC#\CriandoClasses\CriandoClasses\obj\Debug\netcoreapp3.1\ExercicioCriacaoDeClasses.AssemblyInfoInputs.cache
+F:\josemar\udemyC#\CriandoClasses\CriandoClasses\obj\Debug\netcoreapp3.1\ExercicioCriacaoDeClasses.AssemblyInfo.cs
+F:\josemar\udemyC#\CriandoClasses\CriandoClasses\obj\Debug\netcoreapp3.1\ExercicioCriacaoDeClasses.dll
+F:\josemar\udemyC#\CriandoClasses\CriandoClasses\obj\Debug\netcoreapp3.1\ExercicioCriacaoDeClasses.pdb
+F:\josemar\udemyC#\CriandoClasses\CriandoClasses\bin\Debug\netcoreapp3.1\ExercicioCriacaoDeClasses.exe
+F:\josemar\udemyC#\CriandoClasses\CriandoClasses\bin\Debug\netcoreapp3.1\ExercicioCriacaoDeClasses.runtimeconfig.json
+F:\josemar\udemyC#\CriandoClasses\CriandoClasses\bin\Debug\netcoreapp3.1\ExercicioCriacaoDeClasses.runtimeconfig.dev.json
+F:\josemar\udemyC#\CriandoClasses\CriandoClasses\obj\Debug\netcoreapp3.1\ExercicioCriacaoDeClasses.genruntimeconfig.cache

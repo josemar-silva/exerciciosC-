@@ -1,0 +1,13 @@
+F:\josemar\udemyC#\ExercicioConstrutores\ExercicioConstrutores\bin\Debug\netcoreapp3.1\ExercicioConstrutores.exe
+F:\josemar\udemyC#\ExercicioConstrutores\ExercicioConstrutores\bin\Debug\netcoreapp3.1\ExercicioConstrutores.deps.json
+F:\josemar\udemyC#\ExercicioConstrutores\ExercicioConstrutores\bin\Debug\netcoreapp3.1\ExercicioConstrutores.runtimeconfig.json
+F:\josemar\udemyC#\ExercicioConstrutores\ExercicioConstrutores\bin\Debug\netcoreapp3.1\ExercicioConstrutores.runtimeconfig.dev.json
+F:\josemar\udemyC#\ExercicioConstrutores\ExercicioConstrutores\bin\Debug\netcoreapp3.1\ExercicioConstrutores.dll
+F:\josemar\udemyC#\ExercicioConstrutores\ExercicioConstrutores\bin\Debug\netcoreapp3.1\ExercicioConstrutores.pdb
+F:\josemar\udemyC#\ExercicioConstrutores\ExercicioConstrutores\obj\Debug\netcoreapp3.1\ExercicioConstrutores.csprojAssemblyReference.cache
+F:\josemar\udemyC#\ExercicioConstrutores\ExercicioConstrutores\obj\Debug\netcoreapp3.1\ExercicioConstrutores.csproj.CoreCompileInputs.cache
+F:\josemar\udemyC#\ExercicioConstrutores\ExercicioConstrutores\obj\Debug\netcoreapp3.1\ExercicioConstrutores.AssemblyInfoInputs.cache
+F:\josemar\udemyC#\ExercicioConstrutores\ExercicioConstrutores\obj\Debug\netcoreapp3.1\ExercicioConstrutores.AssemblyInfo.cs
+F:\josemar\udemyC#\ExercicioConstrutores\ExercicioConstrutores\obj\Debug\netcoreapp3.1\ExercicioConstrutores.dll
+F:\josemar\udemyC#\ExercicioConstrutores\ExercicioConstrutores\obj\Debug\netcoreapp3.1\ExercicioConstrutores.pdb
+F:\josemar\udemyC#\ExercicioConstrutores\ExercicioConstrutores\obj\Debug\netcoreapp3.1\ExercicioConstrutores.genruntimeconfig.cache

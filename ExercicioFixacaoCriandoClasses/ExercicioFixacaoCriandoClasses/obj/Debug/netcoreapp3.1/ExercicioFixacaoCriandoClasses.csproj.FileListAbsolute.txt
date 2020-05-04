@@ -1,0 +1,13 @@
+F:\josemar\udemyC#\ExercicioFixacaoCriandoClasses\ExercicioFixacaoCriandoClasses\bin\Debug\netcoreapp3.1\ExercicioFixacaoCriandoClasses.exe
+F:\josemar\udemyC#\ExercicioFixacaoCriandoClasses\ExercicioFixacaoCriandoClasses\bin\Debug\netcoreapp3.1\ExercicioFixacaoCriandoClasses.deps.json
+F:\josemar\udemyC#\ExercicioFixacaoCriandoClasses\ExercicioFixacaoCriandoClasses\bin\Debug\netcoreapp3.1\ExercicioFixacaoCriandoClasses.runtimeconfig.json
+F:\josemar\udemyC#\ExercicioFixacaoCriandoClasses\ExercicioFixacaoCriandoClasses\bin\Debug\netcoreapp3.1\ExercicioFixacaoCriandoClasses.runtimeconfig.dev.json
+F:\josemar\udemyC#\ExercicioFixacaoCriandoClasses\ExercicioFixacaoCriandoClasses\bin\Debug\netcoreapp3.1\ExercicioFixacaoCriandoClasses.dll
+F:\josemar\udemyC#\ExercicioFixacaoCriandoClasses\ExercicioFixacaoCriandoClasses\bin\Debug\netcoreapp3.1\ExercicioFixacaoCriandoClasses.pdb
+F:\josemar\udemyC#\ExercicioFixacaoCriandoClasses\ExercicioFixacaoCriandoClasses\obj\Debug\netcoreapp3.1\ExercicioFixacaoCriandoClasses.csprojAssemblyReference.cache
+F:\josemar\udemyC#\ExercicioFixacaoCriandoClasses\ExercicioFixacaoCriandoClasses\obj\Debug\netcoreapp3.1\ExercicioFixacaoCriandoClasses.csproj.CoreCompileInputs.cache
+F:\josemar\udemyC#\ExercicioFixacaoCriandoClasses\ExercicioFixacaoCriandoClasses\obj\Debug\netcoreapp3.1\ExercicioFixacaoCriandoClasses.AssemblyInfoInputs.cache
+F:\josemar\udemyC#\ExercicioFixacaoCriandoClasses\ExercicioFixacaoCriandoClasses\obj\Debug\netcoreapp3.1\ExercicioFixacaoCriandoClasses.AssemblyInfo.cs
+F:\josemar\udemyC#\ExercicioFixacaoCriandoClasses\ExercicioFixacaoCriandoClasses\obj\Debug\netcoreapp3.1\ExercicioFixacaoCriandoClasses.dll
+F:\josemar\udemyC#\ExercicioFixacaoCriandoClasses\ExercicioFixacaoCriandoClasses\obj\Debug\netcoreapp3.1\ExercicioFixacaoCriandoClasses.pdb
+F:\josemar\udemyC#\ExercicioFixacaoCriandoClasses\ExercicioFixacaoCriandoClasses\obj\Debug\netcoreapp3.1\ExercicioFixacaoCriandoClasses.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+F:\josemar\udemyC#\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\netcoreapp3.1\ExercicioSaidaDeDados.exe
+F:\josemar\udemyC#\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\netcoreapp3.1\ExercicioSaidaDeDados.deps.json
+F:\josemar\udemyC#\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\netcoreapp3.1\ExercicioSaidaDeDados.runtimeconfig.json
+F:\josemar\udemyC#\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\netcoreapp3.1\ExercicioSaidaDeDados.runtimeconfig.dev.json
+F:\josemar\udemyC#\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\netcoreapp3.1\ExercicioSaidaDeDados.dll
+F:\josemar\udemyC#\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\netcoreapp3.1\ExercicioSaidaDeDados.pdb
+F:\josemar\udemyC#\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\netcoreapp3.1\ExercicioSaidaDeDados.csprojAssemblyReference.cache
+F:\josemar\udemyC#\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\netcoreapp3.1\ExercicioSaidaDeDados.csproj.CoreCompileInputs.cache
+F:\josemar\udemyC#\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\netcoreapp3.1\ExercicioSaidaDeDados.AssemblyInfoInputs.cache
+F:\josemar\udemyC#\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\netcoreapp3.1\ExercicioSaidaDeDados.AssemblyInfo.cs
+F:\josemar\udemyC#\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\netcoreapp3.1\ExercicioSaidaDeDados.dll
+F:\josemar\udemyC#\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\netcoreapp3.1\ExercicioSaidaDeDados.pdb
+F:\josemar\udemyC#\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\netcoreapp3.1\ExercicioSaidaDeDados.genruntimeconfig.cache
