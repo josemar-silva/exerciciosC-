@@ -1,0 +1,13 @@
+C:\Users\josem_000\source\repos\ExercicioVetoresPousada\ExercicioVetoresPousada\bin\Debug\netcoreapp3.1\ExercicioVetoresPousada.exe
+C:\Users\josem_000\source\repos\ExercicioVetoresPousada\ExercicioVetoresPousada\bin\Debug\netcoreapp3.1\ExercicioVetoresPousada.deps.json
+C:\Users\josem_000\source\repos\ExercicioVetoresPousada\ExercicioVetoresPousada\bin\Debug\netcoreapp3.1\ExercicioVetoresPousada.runtimeconfig.json
+C:\Users\josem_000\source\repos\ExercicioVetoresPousada\ExercicioVetoresPousada\bin\Debug\netcoreapp3.1\ExercicioVetoresPousada.runtimeconfig.dev.json
+C:\Users\josem_000\source\repos\ExercicioVetoresPousada\ExercicioVetoresPousada\bin\Debug\netcoreapp3.1\ExercicioVetoresPousada.dll
+C:\Users\josem_000\source\repos\ExercicioVetoresPousada\ExercicioVetoresPousada\bin\Debug\netcoreapp3.1\ExercicioVetoresPousada.pdb
+C:\Users\josem_000\source\repos\ExercicioVetoresPousada\ExercicioVetoresPousada\obj\Debug\netcoreapp3.1\ExercicioVetoresPousada.csprojAssemblyReference.cache
+C:\Users\josem_000\source\repos\ExercicioVetoresPousada\ExercicioVetoresPousada\obj\Debug\netcoreapp3.1\ExercicioVetoresPousada.csproj.CoreCompileInputs.cache
+C:\Users\josem_000\source\repos\ExercicioVetoresPousada\ExercicioVetoresPousada\obj\Debug\netcoreapp3.1\ExercicioVetoresPousada.AssemblyInfoInputs.cache
+C:\Users\josem_000\source\repos\ExercicioVetoresPousada\ExercicioVetoresPousada\obj\Debug\netcoreapp3.1\ExercicioVetoresPousada.AssemblyInfo.cs
+C:\Users\josem_000\source\repos\ExercicioVetoresPousada\ExercicioVetoresPousada\obj\Debug\netcoreapp3.1\ExercicioVetoresPousada.dll
+C:\Users\josem_000\source\repos\ExercicioVetoresPousada\ExercicioVetoresPousada\obj\Debug\netcoreapp3.1\ExercicioVetoresPousada.pdb
+C:\Users\josem_000\source\repos\ExercicioVetoresPousada\ExercicioVetoresPousada\obj\Debug\netcoreapp3.1\ExercicioVetoresPousada.genruntimeconfig.cache
