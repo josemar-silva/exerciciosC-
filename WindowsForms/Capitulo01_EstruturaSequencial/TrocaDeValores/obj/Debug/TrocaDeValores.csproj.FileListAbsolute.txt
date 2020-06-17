@@ -1,0 +1,10 @@
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\TrocaDeValores\bin\Debug\TrocaDeValores.exe.config
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\TrocaDeValores\bin\Debug\TrocaDeValores.exe
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\TrocaDeValores\bin\Debug\TrocaDeValores.pdb
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\TrocaDeValores\obj\Debug\TrocaDeValores.csprojAssemblyReference.cache
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\TrocaDeValores\obj\Debug\TrocaDeValores.FrmTrocaDeValores.resources
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\TrocaDeValores\obj\Debug\TrocaDeValores.Properties.Resources.resources
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.GenerateResource.cache
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.CoreCompileInputs.cache
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\TrocaDeValores\obj\Debug\TrocaDeValores.exe
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\TrocaDeValores\obj\Debug\TrocaDeValores.pdb

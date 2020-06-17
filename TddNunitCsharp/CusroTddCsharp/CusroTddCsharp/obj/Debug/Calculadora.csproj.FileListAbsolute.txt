@@ -1,0 +1,6 @@
+F:\josemar\Git\_dev\VisualStudio\TddNunitCsharp\CusroTddCsharp\CusroTddCsharp\bin\Debug\CusroTddCsharp.dll
+F:\josemar\Git\_dev\VisualStudio\TddNunitCsharp\CusroTddCsharp\CusroTddCsharp\bin\Debug\CusroTddCsharp.pdb
+F:\josemar\Git\_dev\VisualStudio\TddNunitCsharp\CusroTddCsharp\CusroTddCsharp\obj\Debug\Calculadora.csprojAssemblyReference.cache
+F:\josemar\Git\_dev\VisualStudio\TddNunitCsharp\CusroTddCsharp\CusroTddCsharp\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+F:\josemar\Git\_dev\VisualStudio\TddNunitCsharp\CusroTddCsharp\CusroTddCsharp\obj\Debug\CusroTddCsharp.dll
+F:\josemar\Git\_dev\VisualStudio\TddNunitCsharp\CusroTddCsharp\CusroTddCsharp\obj\Debug\CusroTddCsharp.pdb

@@ -1,0 +1,10 @@
+C:\Users\josem_000\source\repos\testeRadio\testeRadio\bin\Debug\testeRadio.exe.config
+C:\Users\josem_000\source\repos\testeRadio\testeRadio\bin\Debug\testeRadio.exe
+C:\Users\josem_000\source\repos\testeRadio\testeRadio\bin\Debug\testeRadio.pdb
+C:\Users\josem_000\source\repos\testeRadio\testeRadio\obj\Debug\testeRadio.csprojAssemblyReference.cache
+C:\Users\josem_000\source\repos\testeRadio\testeRadio\obj\Debug\testeRadio.Form1.resources
+C:\Users\josem_000\source\repos\testeRadio\testeRadio\obj\Debug\testeRadio.Properties.Resources.resources
+C:\Users\josem_000\source\repos\testeRadio\testeRadio\obj\Debug\testeRadio.csproj.GenerateResource.cache
+C:\Users\josem_000\source\repos\testeRadio\testeRadio\obj\Debug\testeRadio.csproj.CoreCompileInputs.cache
+C:\Users\josem_000\source\repos\testeRadio\testeRadio\obj\Debug\testeRadio.exe
+C:\Users\josem_000\source\repos\testeRadio\testeRadio\obj\Debug\testeRadio.pdb

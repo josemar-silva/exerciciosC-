@@ -1,0 +1,10 @@
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\RestoDeUmaDivisao\bin\Debug\RestoDeUmaDivisao.exe.config
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\RestoDeUmaDivisao\bin\Debug\RestoDeUmaDivisao.exe
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\RestoDeUmaDivisao\bin\Debug\RestoDeUmaDivisao.pdb
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\RestoDeUmaDivisao\obj\Debug\RestoDeUmaDivisao.csprojAssemblyReference.cache
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\RestoDeUmaDivisao\obj\Debug\RestoDeUmaDivisao.Form1.resources
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\RestoDeUmaDivisao\obj\Debug\RestoDeUmaDivisao.Properties.Resources.resources
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\RestoDeUmaDivisao\obj\Debug\RestoDeUmaDivisao.csproj.GenerateResource.cache
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\RestoDeUmaDivisao\obj\Debug\RestoDeUmaDivisao.csproj.CoreCompileInputs.cache
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\RestoDeUmaDivisao\obj\Debug\RestoDeUmaDivisao.exe
+F:\josemar\Git\_dev\VisualStudio\TrocaDeValores\RestoDeUmaDivisao\obj\Debug\RestoDeUmaDivisao.pdb

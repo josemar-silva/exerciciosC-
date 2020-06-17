@@ -1,0 +1,14 @@
+C:\Users\josem_000\source\repos\teste\teste\bin\Debug\teste.exe.config
+C:\Users\josem_000\source\repos\teste\teste\bin\Debug\teste.exe
+C:\Users\josem_000\source\repos\teste\teste\bin\Debug\teste.pdb
+C:\Users\josem_000\source\repos\teste\teste\obj\Debug\teste.csprojAssemblyReference.cache
+C:\Users\josem_000\source\repos\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\josem_000\source\repos\teste\teste\obj\Debug\teste.exe
+C:\Users\josem_000\source\repos\teste\teste\obj\Debug\teste.pdb
+F:\josemar\Git\_dev\VisualStudio\ExemploListaDeObjetos\teste\bin\Debug\teste.exe.config
+F:\josemar\Git\_dev\VisualStudio\ExemploListaDeObjetos\teste\bin\Debug\teste.exe
+F:\josemar\Git\_dev\VisualStudio\ExemploListaDeObjetos\teste\bin\Debug\teste.pdb
+F:\josemar\Git\_dev\VisualStudio\ExemploListaDeObjetos\teste\obj\Debug\teste.csprojAssemblyReference.cache
+F:\josemar\Git\_dev\VisualStudio\ExemploListaDeObjetos\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+F:\josemar\Git\_dev\VisualStudio\ExemploListaDeObjetos\teste\obj\Debug\teste.exe
+F:\josemar\Git\_dev\VisualStudio\ExemploListaDeObjetos\teste\obj\Debug\teste.pdb

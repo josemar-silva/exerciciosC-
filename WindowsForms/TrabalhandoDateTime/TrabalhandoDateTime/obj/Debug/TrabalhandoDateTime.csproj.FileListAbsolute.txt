@@ -1,0 +1,10 @@
+F:\josemar\Git\_dev\VisualStudio\WindowsForms\TrabalhandoDateTime\TrabalhandoDateTime\bin\Debug\TrabalhandoDateTime.exe.config
+F:\josemar\Git\_dev\VisualStudio\WindowsForms\TrabalhandoDateTime\TrabalhandoDateTime\bin\Debug\TrabalhandoDateTime.exe
+F:\josemar\Git\_dev\VisualStudio\WindowsForms\TrabalhandoDateTime\TrabalhandoDateTime\bin\Debug\TrabalhandoDateTime.pdb
+F:\josemar\Git\_dev\VisualStudio\WindowsForms\TrabalhandoDateTime\TrabalhandoDateTime\obj\Debug\TrabalhandoDateTime.csprojAssemblyReference.cache
+F:\josemar\Git\_dev\VisualStudio\WindowsForms\TrabalhandoDateTime\TrabalhandoDateTime\obj\Debug\TrabalhandoDateTime.Form1.resources
+F:\josemar\Git\_dev\VisualStudio\WindowsForms\TrabalhandoDateTime\TrabalhandoDateTime\obj\Debug\TrabalhandoDateTime.Properties.Resources.resources
+F:\josemar\Git\_dev\VisualStudio\WindowsForms\TrabalhandoDateTime\TrabalhandoDateTime\obj\Debug\TrabalhandoDateTime.csproj.GenerateResource.cache
+F:\josemar\Git\_dev\VisualStudio\WindowsForms\TrabalhandoDateTime\TrabalhandoDateTime\obj\Debug\TrabalhandoDateTime.csproj.CoreCompileInputs.cache
+F:\josemar\Git\_dev\VisualStudio\WindowsForms\TrabalhandoDateTime\TrabalhandoDateTime\obj\Debug\TrabalhandoDateTime.exe
+F:\josemar\Git\_dev\VisualStudio\WindowsForms\TrabalhandoDateTime\TrabalhandoDateTime\obj\Debug\TrabalhandoDateTime.pdb

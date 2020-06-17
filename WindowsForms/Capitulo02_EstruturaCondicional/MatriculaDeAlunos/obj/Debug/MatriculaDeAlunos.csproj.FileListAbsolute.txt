@@ -1,0 +1,10 @@
+F:\josemar\Git\_dev\VisualStudio\Capitulo02_EstruturaCondicional\MatriculaDeAlunos\bin\Debug\MatriculaDeAlunos.exe.config
+F:\josemar\Git\_dev\VisualStudio\Capitulo02_EstruturaCondicional\MatriculaDeAlunos\bin\Debug\MatriculaDeAlunos.exe
+F:\josemar\Git\_dev\VisualStudio\Capitulo02_EstruturaCondicional\MatriculaDeAlunos\bin\Debug\MatriculaDeAlunos.pdb
+F:\josemar\Git\_dev\VisualStudio\Capitulo02_EstruturaCondicional\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.csprojAssemblyReference.cache
+F:\josemar\Git\_dev\VisualStudio\Capitulo02_EstruturaCondicional\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.Form1.resources
+F:\josemar\Git\_dev\VisualStudio\Capitulo02_EstruturaCondicional\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.Properties.Resources.resources
+F:\josemar\Git\_dev\VisualStudio\Capitulo02_EstruturaCondicional\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.csproj.GenerateResource.cache
+F:\josemar\Git\_dev\VisualStudio\Capitulo02_EstruturaCondicional\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.csproj.CoreCompileInputs.cache
+F:\josemar\Git\_dev\VisualStudio\Capitulo02_EstruturaCondicional\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.exe
+F:\josemar\Git\_dev\VisualStudio\Capitulo02_EstruturaCondicional\MatriculaDeAlunos\obj\Debug\MatriculaDeAlunos.pdb
